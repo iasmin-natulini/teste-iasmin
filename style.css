@@ -1,0 +1,13 @@
+body{
+    background-color: gold;
+}
+h1{
+    color:blueviolet;
+} 
+h2{
+    color:brown;
+}
+h3{
+    color:aqua;
+    text-decoration: underline;
+}
